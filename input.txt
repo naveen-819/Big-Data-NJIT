@@ -1,0 +1,7 @@
+Heart	5
+Heart	4
+Spade	9
+Heart	8
+Spade	5
+Diamond	11
+Club	99
